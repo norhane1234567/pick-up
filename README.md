@@ -1,6 +1,10 @@
 # AddToCart
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
+![pick-up](https://github.com/norhane1234567/pick-up/blob/ee40e40c383408fa28cbfd7a4d29982b7642a839/pc4.png)
+
+
+
 
 ## Development server
 
